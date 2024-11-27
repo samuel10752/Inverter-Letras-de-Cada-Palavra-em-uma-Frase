@@ -19,7 +19,7 @@ Este é um programa em Python que inverte cada palavra de uma frase sem alterar 
 
 ## 🚀 Como executar
 
-1. Copie o código para um arquivo local chamado `Execercio.py`.
+1. Copie o código para um arquivo local chamado `Exercicio.py`.
 2. Execute o programa com:
    ```bash
-   python Execercio.py
+   python Exercicio.py
